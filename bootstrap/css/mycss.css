@@ -1,3 +1,18 @@
 .logo{
         padding-top: 10%;
     }
+
+.major-projects{
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.minor-projects{
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+
+.heading{
+	text-align: center;
+}
