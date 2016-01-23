@@ -1,5 +1,6 @@
 .logo{
         padding-top: 10%;
+        display: flex;
     }
 
 .major-projects{
@@ -15,4 +16,14 @@
 
 .heading{
 	text-align: center;
+}
+
+.name{
+	text-align: right;
+}
+
+.col{
+
+	padding-left: 5%;
+	padding-right: 5%
 }
